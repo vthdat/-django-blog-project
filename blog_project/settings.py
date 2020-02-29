@@ -25,7 +25,7 @@ SECRET_KEY = 'lql9568)8c0s($$*o-#_q$43@wf+15z+tqa)d(sz#i9#l13zzp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
